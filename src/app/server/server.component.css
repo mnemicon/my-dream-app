@@ -1,0 +1,19 @@
+/* section {
+    background-color: blue;
+}
+h1 {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+} */
+
+.app-server {
+    background-color: blue;
+}
+.app-server * {
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+}
+.online {
+    border: 5px bisque double;
+}

@@ -1,0 +1,14 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+}
+
+.app-servers {
+    background-color: black;
+}
+.app-servers * {
+    color: bisque;
+}
+.app-servers input {
+    color: brown;
+}

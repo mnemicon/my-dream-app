@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+section {
+    background-color: bisque;
+    margin: 1rem;
+    padding: 1rem;
+}
+h1 {
+    color:blue;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: black;
+    font-size: 1.3rem;
+}
